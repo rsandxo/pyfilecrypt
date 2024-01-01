@@ -24,6 +24,8 @@ PyFileCrypt is a simple command-line tool that allows users to encrypt and decry
 
 ## Usage Information
 
+### IMPORTANT: BACK UP DATA BEFORE USING THIS TOOL.
+I am not responsible for any potential data loss as a result of using this tool.
 
 To encrypt a file using PyFileCrypt:
 1. Run `python pyfilecrypt_encrypt.py` in the terminal or command prompt, the tool will ask you for the path of the file you wish to encrypt. The tool will read the contents of the specified file and replace it with its encrypted version.
