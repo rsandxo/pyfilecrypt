@@ -6,7 +6,7 @@ PyFileCrypt is a simple command-line tool that allows users to encrypt and decry
 ## Installation/Setup Instructions
 
 
-1. Clone this repository to your local machine: git clone https://github.com/rsandxo/pyfilecryptor.git
+1. Clone this repository to your local machine: `git clone https://github.com/rsandxo/pyfilecryptor.git`
 2. Navigate to the project directory in your terminal or command prompt.
 3. Create a new virtual environment by running the following commands:
   
