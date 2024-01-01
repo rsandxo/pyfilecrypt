@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
     print("....................PyFileCrypt v1.0.................")
     print("|   Encrypts files using AES-256 / RSA algorithms   |")
-    print(".....................by ex0thrmic....................\n")
+    print("......................by rsandxo.....................\n")
 
     filename = input("Enter the path to the file you wish to encrypt: ")
     print(filename)
