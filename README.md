@@ -10,12 +10,12 @@ PyFileCrypt is a simple command-line tool that allows users to encrypt and decry
 2. Navigate to the project directory in your terminal or command prompt.
 3. Create a new virtual environment by running the following commands:
   
-   ` python -m venv env
-    source env/bin/activate  # On Unix systems (Linux, macOS)
-    env\Scripts\Activate.ps1  # On Windows systems`
+   `python -m venv env`
+   `source env/bin/activate`  # On Unix systems (Linux, macOS)
+   `env\Scripts\Activate.ps1`  # On Windows systems
    
 6. Install the required dependencies inside your virtual environment by running:
-   ` pip install -r requirements.txt`
+   `pip install -r requirements.txt`
 
    
 5. Ensure that you have Python 3 installed on your machine, as this tool is written for Python 3.
