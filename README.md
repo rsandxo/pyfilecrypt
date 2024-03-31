@@ -7,7 +7,6 @@ PyFileCrypt is a simple command-line tool that allows users to encrypt and decry
 - Unify into one script file *DONE*
 - Add support for command line arguments (i.e. passing file path directly)
 - Add ability to change certificate storage path
-- Add option to use Ed25519 instead of RSA-4096 for session key encryption.
 - Implement a method to preserve original file, instead of replacing.
 
 ## Installation/Setup Instructions
