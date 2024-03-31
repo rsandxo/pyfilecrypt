@@ -4,7 +4,7 @@
 PyFileCrypt is a simple command-line tool that allows users to encrypt and decrypt files using the Advanced Encryption Standard (AES) with 256-bit keys, along with RSA encryption for session key encryption. This tool uses the standalone PyCryptodome library under the hood for its cryptographic operations.
 
 # TODO
-- Unify into one script file *DONE*
+- ~~Unify into one script file~~ *DONE*
 - Add support for command line arguments (i.e. passing file path directly)
 - Add ability to change certificate storage path
 - Implement a method to preserve original file, instead of replacing.
