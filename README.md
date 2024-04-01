@@ -1,7 +1,7 @@
 # PyFileCrypt - AES-256/RSA File Encryption Tool
 
 
-PyFileCrypt is a simple command-line tool that allows users to encrypt and decrypt files using the Advanced Encryption Standard (AES) with 256-bit keys, along with RSA encryption for session key encryption. This tool uses the standalone PyCryptodome library under the hood for its cryptographic operations.
+PyFileCrypt is a simple command-line tool that allows users to encrypt and decrypt data using the Advanced Encryption Standard (AES) with 256-bit keys, along with RSA encryption for session key encryption. This tool uses the standalone PyCryptodome library under the hood for its cryptographic operations.
 
 # TODO
 - ~~Unify into one script file~~ *DONE*
